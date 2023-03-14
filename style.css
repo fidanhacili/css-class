@@ -1,0 +1,19 @@
+div{
+text-align: center;
+}
+.item{
+    padding: 100px;
+    background-color: aqua;
+}
+.itemm h6{
+    color: grey;
+}
+.itemmm{
+    display: inline-block;
+    padding: 20px;
+    width: 150px;
+}
+
+.item3{
+    background-color: cadetblue;
+}
